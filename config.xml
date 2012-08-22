@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
+	id		= "com.british.tamaskan"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>British Tamaskan Club Forum/name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		The Official Forum of the British Tamaskan Club
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://tamaskan-dog.org.uk"
+		email="jim@tamaskan-dog.org.uk">
+		Jim Niven
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
