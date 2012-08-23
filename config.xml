@@ -7,12 +7,12 @@
 	<name>BTC Forum</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		The Official Forum for the British Tamaskan Club
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://tamaskan-dog.org.uk"
+		email="jim@tamaskan-dog.org.uk">
+		Jim Niven
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
